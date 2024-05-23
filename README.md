@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-disc
- Disc Player Proxy SDK documentation
+# Driverworks Proxy/Protocol Guide - disc
+
+Disc Player Proxy SDK documentation
